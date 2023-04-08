@@ -1,0 +1,21 @@
+.pokecard-div {
+  background-color: rgb(206, 206, 206);
+  margin: 2rem;
+  padding: 1rem 1.8rem;
+  border-radius: 0.6rem;
+}
+
+.pokecard-div > h3 {
+  color: blue;
+  margin: 0;
+  text-align: center;
+}
+
+.pokecard-div > div {
+  text-align: center;
+}
+
+.pokemon-img-div {
+  display: flex;
+  justify-content: center;
+}
